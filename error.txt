@@ -1,0 +1,3100 @@
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'Sidebar' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:12:8[39m[24m
+  [90mimport Sidebar from './components/common/sidebar';[39m
+  [90m        ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'Sidebar' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:12:8[39m[24m
+  [90mimport Sidebar from './components/common/sidebar';[39m
+  [90m        ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'Sidebar' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:12:8[39m[24m
+  [90mimport Sidebar from './components/common/sidebar';[39m
+  [90m        ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'Sidebar' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:12:8[39m[24m
+  [90mimport Sidebar from './components/common/sidebar';[39m
+  [90m        ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'Footer' is defined but never used   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:11:8[39m[24m
+  [90mimport Footer from './components/common/footer';[39m
+  [90m        ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'Sidebar' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:12:8[39m[24m
+  [90mimport Sidebar from './components/common/sidebar';[39m
+  [90m        ^[39m
+
+
+[33m[1m✘ 2 problems (0 errors, 2 warnings)
+[22m[39m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'Sidebar' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:12:8[39m[24m
+  [90mimport Sidebar from './components/common/sidebar';[39m
+  [90m        ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'footer' is defined but never used   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:34:9[39m[24m
+  [90m    let footer = <Footer />;[39m
+  [90m         ^[39m
+
+
+[33m[1m✘ 2 problems (0 errors, 2 warnings)
+[22m[39m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'Sidebar' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:12:8[39m[24m
+  [90mimport Sidebar from './components/common/sidebar';[39m
+  [90m        ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'footer' is defined but never used   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:34:9[39m[24m
+  [90m    let footer = <Footer />;[39m
+  [90m         ^[39m
+
+
+[33m[1m✘ 2 problems (0 errors, 2 warnings)
+[22m[39m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'footer' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:34:9[39m[24m
+  [90m    let footer = <Footer />;[39m
+  [90m         ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'footer' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:34:9[39m[24m
+  [90m    let footer = <Footer />;[39m
+  [90m         ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m   'Footer' is not defined             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/entry.js:34:19[39m[24m
+  [90m    let footer = <Footer />;[39m
+  [90m                   ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/containers/SvgEditor/index.js:10:23[39m[24m
+  [90m              <Toolbox/>[39m
+  [90m                       ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m                Missing space before value for key 'createBtns'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:7:24[39m[24m
+  [90m            createBtns:[[39m
+  [90m                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m               Unexpected trailing comma                        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:11:47[39m[24m
+  [90m                { type: "line", text: "Line" },[39m
+  [90m                                               ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:21:46[39m[24m
+  [90m                <CreateBtns btns={createBtns}/>[39m
+  [90m                                              ^[39m
+
+
+[31m[1m✘ 3 problems (3 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace    
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:12:20[39m[24m
+  [90m    clickBtn(event){[39m
+  [90m                    ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m       'clickBtn' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:14:13[39m[24m
+  [90m        let clickBtn = {[39m
+  [90m             ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m   Trailing spaces not allowed           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:29:20[39m[24m
+  [90m            </from> [39m
+  [90m                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>               
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:25:42[39m[24m
+  [90m                    btns.map((item, index)=>{[39m
+  [90m                                          ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:25:45[39m[24m
+  [90m                    btns.map((item, index)=>{[39m
+  [90m                                             ^[39m
+
+
+[31m[1m✘ 5 problems (2 errors, 3 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:12:20[39m[24m
+  [90m    clickBtn(event){[39m
+  [90m                    ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m   Trailing spaces not allowed         
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:30:20[39m[24m
+  [90m            </from> [39m
+  [90m                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:42[39m[24m
+  [90m                    btns.map((item, index)=>{[39m
+  [90m                                          ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>              
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:45[39m[24m
+  [90m                    btns.map((item, index)=>{[39m
+  [90m                                             ^[39m
+
+
+[31m[1m✘ 4 problems (2 errors, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace               
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:17:17[39m[24m
+  [90m    createShap(){[39m
+  [90m                 ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m                Missing space before value for key 'createBtns'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:7:24[39m[24m
+  [90m            createBtns:[[39m
+  [90m                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m               Unexpected trailing comma                        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:11:47[39m[24m
+  [90m                { type: "line", text: "Line" },[39m
+  [90m                                               ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:27:75[39m[24m
+  [90m                <CreateBtns btns={createBtns} createShap={this.createShap}/>[39m
+  [90m                                                                           ^[39m
+
+
+[31m[1m✘ 4 problems (3 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:17:17[39m[24m
+  [90m    createShap(){[39m
+  [90m                 ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m               Unexpected trailing comma                   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:11:47[39m[24m
+  [90m                { type: "line", text: "Line" },[39m
+  [90m                                               ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:27:75[39m[24m
+  [90m                <CreateBtns btns={createBtns} createShap={this.createShap}/>[39m
+  [90m                                                                           ^[39m
+
+
+[31m[1m✘ 3 problems (2 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:18:17[39m[24m
+  [90m    createShap(){[39m
+  [90m                 ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m               Unexpected trailing comma                   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:11:47[39m[24m
+  [90m                { type: "line", text: "Line" },[39m
+  [90m                                               ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:28:75[39m[24m
+  [90m                <CreateBtns btns={createBtns} createShap={this.createShap}/>[39m
+  [90m                                                                           ^[39m
+
+
+[31m[1m✘ 3 problems (2 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:12:20[39m[24m
+  [90m    clickBtn(event){[39m
+  [90m                    ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m   Trailing spaces not allowed         
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:30:20[39m[24m
+  [90m            </from> [39m
+  [90m                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:42[39m[24m
+  [90m                    btns.map((item, index)=>{[39m
+  [90m                                          ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>              
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:45[39m[24m
+  [90m                    btns.map((item, index)=>{[39m
+  [90m                                             ^[39m
+
+
+[31m[1m✘ 4 problems (2 errors, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m  Trailing spaces not allowed  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:30:20[39m[24m
+  [90m            </from> [39m
+  [90m                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m       Missing space before =>      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:42[39m[24m
+  [90m                    btns.map((item, index)=>{[39m
+  [90m                                          ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m       Missing space after =>       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:45[39m[24m
+  [90m                    btns.map((item, index)=>{[39m
+  [90m                                             ^[39m
+
+
+[31m[1m✘ 3 problems (2 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m  Trailing spaces not allowed  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:30:20[39m[24m
+  [90m            </from> [39m
+  [90m                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m       Missing space after =>       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:46[39m[24m
+  [90m                    btns.map((item, index) =>{[39m
+  [90m                                              ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m               Unexpected trailing comma                   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:11:47[39m[24m
+  [90m                { type: "line", text: "Line" },[39m
+  [90m                                               ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:28:75[39m[24m
+  [90m                <CreateBtns btns={createBtns} createShap={this.createShap}/>[39m
+  [90m                                                                           ^[39m
+
+
+[31m[1m✘ 2 problems (2 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:46[39m[24m
+  [90m                    btns.map((item, index) =>{[39m
+  [90m                                              ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m  Trailing spaces not allowed  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:47[39m[24m
+  [90m                    btns.map((item, index) =>{ [39m
+  [90m                                               ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m       Missing space after =>       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:26:46[39m[24m
+  [90m                    btns.map((item, index) =>{ [39m
+  [90m                                              ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:28:75[39m[24m
+  [90m                <CreateBtns btns={createBtns} createShap={this.createShap}/>[39m
+  [90m                                                                           ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[39m[24m  Parsing error: Unexpected token, expected ,  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:22:21[39m[24m
+  [90m                    'x:10,y:10,width:200,height:100,rx:0,ry:0'],[39m
+  [90m                     ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mnull[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[39m[24m  Parsing error: Unexpected token, expected ,  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:28:17[39m[24m
+  [90m                circle: 'cx:200,cy:200,r:50',[39m
+  [90m                 ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mnull[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m  Missing space before value for key 'shapsAttrs'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:13:24[39m[24m
+  [90m            shapsAttrs:{[39m
+  [90m                        ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-equals-spacing[90m[39m[24m  There should be no space before '='  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:27:44[39m[24m
+  [90m                        return <button key = {index} className="btn btn-default" type="button" create={item.type}>{item.text}</button>[39m
+  [90m                                            ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-equals-spacing[90m[39m[24m  There should be no space after '='   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/createbtns.js:27:44[39m[24m
+  [90m                        return <button key = {index} className="btn btn-default" type="button" create={item.type}>{item.text}</button>[39m
+  [90m                                            ^[39m
+
+
+[31m[1m✘ 2 problems (2 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-equals-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fwrap-multilines[90m[39m[24m           Missing parentheses around multilines JSX   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:20:32[39m[24m
+  [90m                        return <div>[39m
+  [90m                                ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m         Trailing spaces not allowed                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:21:56[39m[24m
+  [90m                            <label>{item.text}：</label>   [39m
+  [90m                                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:22:97[39m[24m
+  [90m                            <input type="range" value={item.value} min={item.min} max={item.max}/>[39m
+  [90m                                                                                                 ^[39m
+
+
+[31m[1m✘ 3 problems (1 error, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  1  [4m[90mhttps://google.com/#q=[37mreact%2Fwrap-multilines[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fwrap-multilines[90m[39m[24m           Missing parentheses around multilines JSX   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:19:32[39m[24m
+  [90m                        return <div>[39m
+  [90m                                ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m         Trailing spaces not allowed                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:20:56[39m[24m
+  [90m                            <label>{item.text}：</label>   [39m
+  [90m                                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:21:97[39m[24m
+  [90m                            <input type="range" value={item.value} min={item.min} max={item.max}/>[39m
+  [90m                                                                                                 ^[39m
+
+
+[31m[1m✘ 3 problems (1 error, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  1  [4m[90mhttps://google.com/#q=[37mreact%2Fwrap-multilines[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fwrap-multilines[90m[39m[24m           Missing parentheses around multilines JSX   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:19:32[39m[24m
+  [90m                        return <div>[39m
+  [90m                                ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m         Trailing spaces not allowed                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:20:56[39m[24m
+  [90m                            <label>{item.text}：</label>   [39m
+  [90m                                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:21:97[39m[24m
+  [90m                            <input type="range" value={item.value} min={item.min} max={item.max}/>[39m
+  [90m                                                                                                 ^[39m
+
+
+[31m[1m✘ 3 problems (1 error, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  1  [4m[90mhttps://google.com/#q=[37mreact%2Fwrap-multilines[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:19:132[39m[24m
+  [90m                        return <div><label>{item.text}：</label><input type="range" value={item.value} min={item.min} max={item.max}/></div>[39m
+  [90m                                                                                                                                    ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:19:145[39m[24m
+  [90m                        return <div key={index} ><label>{item.text}：</label><input type="range" value={item.value} min={item.min} max={item.max}/></div>[39m
+  [90m                                                                                                                                                 ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:19:145[39m[24m
+  [90m                        return <div key={index} ><label>{item.text}：</label><input type="range" value={item.value} min={item.min} max={item.max}/> </div>[39m
+  [90m                                                                                                                                                 ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:19:145[39m[24m
+  [90m                        return <div key={index} ><label>{item.text}：</label><input type="range" value={item.value} min={item.min} max={item.max}/> </div>[39m
+  [90m                                                                                                                                                 ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m         Trailing spaces not allowed                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:22:103[39m[24m
+  [90m                                <input type="range" value={item.value} min={item.min} max={item.max}/> [39m
+  [90m                                                                                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:22:101[39m[24m
+  [90m                                <input type="range" value={item.value} min={item.min} max={item.max}/> [39m
+  [90m                                                                                                     ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:22:101[39m[24m
+  [90m                                <input type="range" value={item.value} min={item.min} max={item.max}/>[39m
+  [90m                                                                                                     ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:12:21[39m[24m
+  [90m    changeInputVal(){[39m
+  [90m                     ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:22:116[39m[24m
+  [90m                <input type="range" value={item.value} min={item.min} max={item.max} onChange={this.changeInputVal}/>[39m
+  [90m                                                                                                                    ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:20:95[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={this.changeAttr}/>[39m
+  [90m                                                                                               ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:13:21[39m[24m
+  [90m    changeAttr(item){[39m
+  [90m                     ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:95[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={this.changeAttr}/>[39m
+  [90m                                                                                               ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:13:21[39m[24m
+  [90m    changeAttr(item){[39m
+  [90m                     ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:95[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={this.changeAttr}/>[39m
+  [90m                                                                                               ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:13:21[39m[24m
+  [90m    changeAttr(item){[39m
+  [90m                     ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:95[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={this.changeAttr}/>[39m
+  [90m                                                                                               ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:12:21[39m[24m
+  [90m    changeInputVal(){[39m
+  [90m                     ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:22:116[39m[24m
+  [90m                <input type="range" value={item.value} min={item.min} max={item.max} onChange={this.changeInputVal}/>[39m
+  [90m                                                                                                                    ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:13:21[39m[24m
+  [90m    changeAttr(item){[39m
+  [90m                     ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:95[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={this.changeAttr}/>[39m
+  [90m                                                                                               ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:12:21[39m[24m
+  [90m    changeInputVal(){[39m
+  [90m                     ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:22:116[39m[24m
+  [90m                <input type="range" value={item.value} min={item.min} max={item.max} onChange={this.changeInputVal}/>[39m
+  [90m                                                                                                                    ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:13:21[39m[24m
+  [90m    changeAttr(item){[39m
+  [90m                     ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:95[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={this.changeAttr}/>[39m
+  [90m                                                                                               ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:13:21[39m[24m
+  [90m    changeAttr(item){ [39m
+  [90m                     ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m         Trailing spaces not allowed                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:13:22[39m[24m
+  [90m    changeAttr(item){ [39m
+  [90m                      ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:95[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={this.changeAttr}/>[39m
+  [90m                                                                                               ^[39m
+
+
+[31m[1m✘ 3 problems (1 error, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m        Missing space before opening brace          
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:12:21[39m[24m
+  [90m    changeInputVal(){ [39m
+  [90m                     ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m         Trailing spaces not allowed                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:12:22[39m[24m
+  [90m    changeInputVal(){ [39m
+  [90m                      ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:22:116[39m[24m
+  [90m                <input type="range" value={item.value} min={item.min} max={item.max} onChange={this.changeInputVal}/>[39m
+  [90m                                                                                                                    ^[39m
+
+
+[31m[1m✘ 3 problems (1 error, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrItem.js:22:116[39m[24m
+  [90m                <input type="range" value={item.value} min={item.min} max={item.max} onChange={this.changeInputVal}/>[39m
+  [90m                                                                                                                    ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:95[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={this.changeAttr}/>[39m
+  [90m                                                                                               ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m       'LookAndTransform' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:4:8[39m[24m
+  [90mimport LookAndTransform from "./lookandtransform";[39m
+  [90m        ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:58:21[39m[24m
+  [90m    changeAttr(item){[39m
+  [90m                     ^[39m
+
+
+[33m[1m✘ 2 problems (0 errors, 2 warnings)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:58:21[39m[24m
+  [90m    changeAttr(item){[39m
+  [90m                     ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:67:87[39m[24m
+  [90m                    shapsAttrs[selectShap] ? <ShapAttrs attrs={shapsAttrs[selectShap]}/> : "请选择图形"[39m
+  [90m                                                                                       ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m               Unexpected trailing comma                   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:45:73[39m[24m
+  [90m    { text: "scale：", type: "inputRange", value: 100, min: 0, max: 800 },[39m
+  [90m                                                                         ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:70[39m[24m
+  [90m                <LookAndTransform lookandTransform={lookandTransform}/>[39m
+  [90m                                                                      ^[39m
+
+
+[31m[1m✘ 2 problems (2 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mcomma-dangle[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:70[39m[24m
+  [90m                <LookAndTransform lookandTransform={lookandTransform}/>[39m
+  [90m                                                                      ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'attrs' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:15[39m[24m
+  [90m        let { attrs } = this.state;[39m
+  [90m               ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[39m[24m  Parsing error: Unexpected token  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:30:79[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeAttr={debugger;this.changeAttr(index)} />[39m
+  [90m                                                                               ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mnull[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'attrs' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:15[39m[24m
+  [90m        let { attrs } = this.state;[39m
+  [90m               ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'attrs' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:15[39m[24m
+  [90m        let { attrs } = this.state;[39m
+  [90m               ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m  Missing space before value for key 'createShaps'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:56:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m  Missing space before value for key 'createShaps'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:56:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m  Missing space before value for key 'createShaps'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m  Missing space before value for key 'createShaps'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:17:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:16:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>              
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:16:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 3 problems (2 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:16:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>              
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 3 problems (2 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m  Missing space before value for key 'createShaps'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+
+[31m[1m✘ 3 problems (3 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'InputRange' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/lookandtransform.js:2:8[39m[24m
+  [90mimport InputRange from "../../common/inputRange/index";[39m
+  [90m        ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'InputColor' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/lookandtransform.js:3:8[39m[24m
+  [90mimport InputColor from "../../common/inputColor/index";[39m
+  [90m        ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m   'ShapAttrItem' is not defined           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/lookandtransform.js:20:30[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeRange={this.changeRange} />[39m
+  [90m                              ^[39m
+
+
+[31m[1m✘ 3 problems (1 error, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'types' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/lookandtransform.js:15:15[39m[24m
+  [90m        const types = {[39m
+  [90m               ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m   'ShapAttrItem' is not defined      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/lookandtransform.js:24:30[39m[24m
+  [90m                            <ShapAttrItem key={index} item={item} changeRange={this.changeRange} />[39m
+  [90m                              ^[39m
+
+
+[31m[1m✘ 2 problems (1 error, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'self' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/lookandtransform.js:25:13[39m[24m
+  [90m        let self = this;[39m
+  [90m             ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:67:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:67:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:68:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:68:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:68:36[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                    ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:68:39[39m[24m
+  [90m        createShap.map((item, index)=>{[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:68:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:68:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:14:12[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m            ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:14:50[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:14:51[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                   ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>                      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:23:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:23:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 6 problems (2 errors, 4 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m  A space is required before closing bracket  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/containers/SvgEditor/index.js:24:42[39m[24m
+  [90m				<Toolbox changeAttr={this.changeAttr}/>[39m
+  [90m				                                      ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-space-before-closing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:66:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:80:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 6 problems (6 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m       'ShapAttrItem' is defined but never used     
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:2:8[39m[24m
+  [90mimport ShapAttrItem from "../../common/inputRange/index";[39m
+  [90m        ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:14:12[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m            ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:14:50[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:14:51[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                   ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>                      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:23:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:23:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m        'InputRange' is not defined                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:42:44[39m[24m
+  [90m                            "InputRange": <InputRange key={index} item={item} changeRange={self.changeRange} />,[39m
+  [90m                                            ^[39m
+
+  [31m✘[39m  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m        'InputColor' is not defined                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:43:44[39m[24m
+  [90m                            "InputColor": <InputColor key={index} item={item} changeColor={self.changeColor} />[39m
+  [90m                                            ^[39m
+
+
+[31m[1m✘ 9 problems (4 errors, 5 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttps://google.com/#q=[37mreact%2Fjsx-no-undef[90m[39m[24m
+  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:12[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m            ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:50[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:51[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                   ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>                      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 6 problems (2 errors, 4 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'lookandTransform' is defined but never used            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:40[39m[24m
+  [90m        let { createBtns, createShaps, lookandTransform } = this.state;[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m     Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m    Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 7 problems (6 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'lookandTransform' is defined but never used            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:40[39m[24m
+  [90m        let { createBtns, createShaps, lookandTransform } = this.state;[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m     Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m    Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 7 problems (6 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'lookandTransform' is defined but never used            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:40[39m[24m
+  [90m        let { createBtns, createShaps, lookandTransform } = this.state;[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m     Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m    Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 7 problems (6 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'lookandTransform' is defined but never used            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:40[39m[24m
+  [90m        let { createBtns, createShaps, lookandTransform } = this.state;[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m     Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m    Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 7 problems (6 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:12[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m            ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:50[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:51[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                   ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>                      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 6 problems (2 errors, 4 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:12[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m            ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:50[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:51[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                   ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>                      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 6 problems (2 errors, 4 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:12[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m            ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:50[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:51[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                   ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>                      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 6 problems (2 errors, 4 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:12[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m            ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:50[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:51[39m[24m
+  [90m        if ( this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                   ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>                      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 6 problems (2 errors, 4 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'lookandTransform' is defined but never used            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:40[39m[24m
+  [90m        let { createBtns, createShaps, lookandTransform } = this.state;[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m     Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:55:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:70:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:70:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m    Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:84:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:84:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:84:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 7 problems (6 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'lookandTransform' is defined but never used            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:40[39m[24m
+  [90m        let { createBtns, createShaps, lookandTransform } = this.state;[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m     Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:54:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m    Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 7 problems (6 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'lookandTransform' is defined but never used            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:40[39m[24m
+  [90m        let { createBtns, createShaps, lookandTransform } = this.state;[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m     Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:54:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:37[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                     ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:69:40[39m[24m
+  [90m        createShaps.map((item, index)=>{[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m    Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 7 problems (6 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  4  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'lookandTransform' is defined but never used            
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:40[39m[24m
+  [90m        let { createBtns, createShaps, lookandTransform } = this.state;[39m
+  [90m                                        ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m     Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:54:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m    Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m   Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:83:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 5 problems (4 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/common/inputRange/index.js:12:48[39m[24m
+  [90m    shouldComponentUpdate(nextProps, nextState){[39m
+  [90m                                                ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m      There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:49[39m[24m
+  [90m        if (this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                 ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:50[39m[24m
+  [90m        if (this.props.attrs != nextProps.attrs ){[39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace           
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>                      
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>                       
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 5 problems (2 errors, 3 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:49[39m[24m
+  [90m        if (this.props.attrs != nextProps.attrs){[39m
+  [90m                                                 ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>              
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 4 problems (2 errors, 2 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:49[39m[24m
+  [90m        if (this.props.attrs != nextProps.attrs){ [39m
+  [90m                                                 ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m   Trailing spaces not allowed         
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:15:50[39m[24m
+  [90m        if (this.props.attrs != nextProps.attrs){ [39m
+  [90m                                                  ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>              
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 5 problems (2 errors, 3 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-trailing-spaces[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>              
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 3 problems (2 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m  Missing space before opening brace  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:25:39[39m[24m
+  [90m            if (itm.text == item.text){[39m
+  [90m                                       ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space before =>             
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m        Missing space after =>              
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 3 problems (2 errors, 1 warning)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-before-blocks[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 2 problems (2 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 2 problems (2 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                              ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>   
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:33[39m[24m
+  [90m        attrs.map((itm, index)=>{[39m
+  [90m                                 ^[39m
+
+
+[31m[1m✘ 2 problems (2 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=> {[39m
+  [90m                              ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:30[39m[24m
+  [90m        attrs.map((itm, index)=> {[39m
+  [90m                              ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m  There should be no spaces inside this paren  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/shapattrs.js:24:18[39m[24m
+  [90m        attrs.map( (itm, index) => {[39m
+  [90m                  ^[39m
+
+
+[33m[1m✘ 1 problem (0 errors, 1 warning)
+[22m[39m
+
+[33mWarnings:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mspace-in-parens[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:54:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:82:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 4 problems (4 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m    Missing space before value for key 'createShaps'        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:54:25[39m[24m
+  [90m            createShaps:[][39m
+  [90m                         ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 4 problems (4 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37mkey-spacing[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                  ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space after =>                                  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:53[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=>{[39m
+  [90m                                                     ^[39m
+
+
+[31m[1m✘ 3 problems (3 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  2  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m  Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item) => {[39m
+  [90m                                             ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m   Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=> {[39m
+  [90m                                             ^[39m
+
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m  Missing space before =>                                 
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:50[39m[24m
+  [90m        let selectShap = createShaps.filter((item)=> {[39m
+  [90m                                                  ^[39m
+
+
+[31m[1m✘ 2 problems (2 errors, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-spacing[90m[39m[24m
+  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m  Unexpected parentheses around single function argument  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/toolbox/index.js:81:45[39m[24m
+  [90m        let selectShap = createShaps.filter((item) => {[39m
+  [90m                                             ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37marrow-parens[90m[39m[24m
+  [31m✘[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-redeclare[90m[39m[24m  'Toolbox' is already defined  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/containers/SvgEditor/index.js:4:8[39m[24m
+  [90mimport Toolbox from '../../components/svgeditor/showsvg/index';[39m
+  [90m        ^[39m
+
+
+[31m[1m✘ 1 problem (1 error, 0 warnings)
+[22m[39m
+
+[31mErrors:
+[39m  1  [4m[90mhttp://eslint.org/docs/rules/[37mno-redeclare[90m[39m[24m
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'CreateBtns' is defined but never used        
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/showsvg/index.js:2:8[39m[24m
+  [90mimport CreateBtns from "./createbtns";[39m
+  [90m        ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'ShapAttrs' is defined but never used         
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/showsvg/index.js:3:8[39m[24m
+  [90mimport ShapAttrs from "./shapattrs";[39m
+  [90m        ^[39m
+
+  [33m⚠[39m  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m  'LookAndTransform' is defined but never used  
+  [4m[90m/Users/mengshuai/study/github/svg-editor/src/components/svgeditor/showsvg/index.js:4:8[39m[24m
+  [90mimport LookAndTransform from "./lookandtransform";[39m
+  [90m        ^[39m
+
+
+[33m[1m✘ 3 problems (0 errors, 3 warnings)
+[22m[39m
+
+[33mWarnings:
+[39m  3  [4m[90mhttp://eslint.org/docs/rules/[37mno-unused-vars[90m[39m[24m

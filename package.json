@@ -1,0 +1,42 @@
+{
+  "name": "generator-talentUi",
+  "author": {
+    "name": "liuhuijuan",
+    "email": "liuhuijuan@beisen.com"
+  },
+  "version": "0.4.0",
+  "description": "TalentUI project template",
+  "main": "index.js",
+  "configFile": "",
+  "configUser": "",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack/webpack.config.js",
+    "build": "rm -rf dist/* && webpack --config ./webpack/webpack.config.js",
+    "build-prod": "NODE_ENV=production webpack --config ./webpack/webpack.prod.config.js",
+    "build-hotfix": "NODE_ENV=production webpack --config ./webpack/webpack.hotfix.config.js",
+    "test": "karma start"
+  },
+  "license": "ISC",
+  "keywords": [
+    "babel",
+    "hot",
+    "react",
+    "reactjs",
+    "hmr",
+    "webpack",
+    "react-router",
+    "react-transform",
+    "redux"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "@beisen/talent-core": "1.0.18-27",
+    "grunt": "^1.0.1",
+    "lodash.isequal": "^4.5.0",
+    "react-highcharts": "^16.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.beisencorp.com:ux/ux-generator-talent-ui.git"
+  }
+}
